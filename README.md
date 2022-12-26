@@ -1,5 +1,3 @@
-# clock-example
 
-<p align="center">An example of a digital clock</p>
-
+<p align="center">Relógio</p>
 <img src="clock.png" />
